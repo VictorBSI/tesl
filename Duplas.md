@@ -27,3 +27,7 @@ Dupla_NOME01_NOME02.md recentemente criado.
 ## Dupla [JOÃO_THIAGO](duplas/Dupla_JOÃO_THIAGO.md)
 - João de Deus Ferreira Filho (lubien1996@gmail.com, [@lubien](https://github.com/lubien))
 - Thiago Calado Sosinho (thiagocalado30@gmail.com, [@uzumis](https://github.com/uzumis))
+
+## Dupla [VICTORHUGO_BHRUNNO](duplas/Dupla_VICTOR_BHRUNNO.md)
+- Victor Hugo Azevedo Ferreira (victorhugo543af@gmail.com, [@VictorBSI](https://github.com/VictorBSI))
+- Bhrunno Brito Medeiros (bhrunno.medeiros@gmail.com, [@Bhrunno](https://github.com/bhrunno))
